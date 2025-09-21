@@ -1,7 +1,7 @@
 
 # LNK. - URL Veritabanı
 
-Bu depo, [LNK.](https://www.google.com/search?q=https://hzr.undo.it/ "null") bağlantı kısaltma servisinin veritabanı olarak işlev görür. Tüm kısaltılmış URL'ler ve ilişkili verileri, bu deponun sorunları (issues) olarak depolanır.
+Bu depo, [LNK.](https://github.com/hazarberke/lnk "null") bağlantı kısaltma servisinin veritabanı olarak işlev görür. Tüm kısaltılmış URL'ler ve ilişkili verileri, bu deponun sorunları (issues) olarak depolanır.
 
 ## Nasıl Çalışır?
 
